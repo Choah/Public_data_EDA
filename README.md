@@ -2,7 +2,9 @@
 공공데이터 EDA
 
 # 작성자
-정우일, 권순철, 조경아
+정우일(https://github.com/WooilJeong),
+권순철(https://github.com/classicmania),
+조경아(https://github.com/Choah110)
 
 ## 부동산 데이터 탐색
 * 목록
