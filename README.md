@@ -1,5 +1,6 @@
-# Public_Data_EDA
+# Public_Data_EDA 개요 
 공공데이터 EDA
+작성자 : 정우일, 권순철, 조경아
 
 ## 부동산 데이터 탐색
 * 목록
